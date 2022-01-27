@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajuJangid
-- 👀 I’m interested in Python and C language
+- 👀 I’m interested in App and Web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 Email address : jangiraju03@gmail.com
